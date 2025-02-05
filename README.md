@@ -8,7 +8,12 @@ It is a feature-rich app designed for book lovers to organize, manage, and read 
 ### Key Features:
 
 📚 Personalized Library – Add, remove, and organize your favorite books with ease.
+
 📖 Read Full Books – Access complete book content directly within the app.
+
 🔍 Smart Search & Categories – Quickly find books based on title, genre, or author.
+
 💾 Offline Reading – Download books and enjoy them without an internet connection.
+
 🌙 Customizable Reading Mode – Adjust font size, themes, and brightness for a comfortable reading experience.
+
